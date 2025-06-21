@@ -22,11 +22,9 @@ O projeto ainda está em desenvolvimento — pretendo torná-lo totalmente **res
 
 ### 🔜 Funcionalidades Futuras
 
-- 🧠 Tornar o site 100% responsivo.
-- 🏗️ Melhorias na acessibilidade.
-- 🛠️ Adicionar filtros ou busca por jogos.
-- 💾 Salvar dados no LocalStorage ou Banco de Dados.
-- 🎨 Melhorias visuais e na UI/UX.
+- Tornar o site 100% responsivo.
+- 🏗Melhorias na acessibilidade.
+- 🛠Adicionar filtros ou busca por jogos.
 
 ---
 
